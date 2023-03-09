@@ -14,11 +14,17 @@
 
 ## Ferramentas que eu mais uso 👨‍💻 🕹️ 
 
-<div style="display : inline_block"><br/>
+  <div style="display : inline_block"><br/>
   <img aling="center" alt="erro" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img aling="center" alt="erro" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img aling="center" alt="erro" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img aling="center" alt="erro" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  
+  
+  
+## Banco de Dados 💾📚
+  <img aling="center" alt="erro" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img aling="center" alt="erro" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
   
   ## IDE's 🛠️ 🧰
   <img aling="center" alt="erro" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
