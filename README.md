@@ -10,8 +10,6 @@
 [![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yrsi1k5yvh8j8ngwyo6yksae9?si=3249b39025da4dfd)
 
 
-[![Lucasvgb Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvgb&layout=compact)](https://github.com/Lucasvgb)
-
 ## Ferramentas que eu mais uso 👨‍💻 🕹️ 
 
   <div style="display : inline_block"><br/>
